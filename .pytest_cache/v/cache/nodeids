@@ -1,5 +1,8 @@
 [
-  "test_fizzbuzz.py::test_is_divisible_by",
-  "test_fizzbuzz.py::test_is_divisible_by_15",
-  "test_fizzbuzz.py::test_is_divisible_by_5"
+  "test_fizzbuzz.py::test_is_divisible_by_true",
+  "test_fizzbuzz.py::test_is_divisible_by_false",
+  "test_fizzbuzz.py::test_is_divisible_by_15_true",
+  "test_fizzbuzz.py::test_is_divisible_by_15_false",
+  "test_fizzbuzz.py::test_is_divisible_by_5_true",
+  "test_fizzbuzz.py::test_is_divisible_by_5_false"
 ]
