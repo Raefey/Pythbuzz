@@ -18,3 +18,9 @@ def test_is_divisible_by_5_true():
 
 def test_is_divisible_by_5_false():
     assert fizzbuzz.is_divisible_by_5(73) == False
+
+def test_is_divisible_by_3_true():
+    assert fizzbuzz.is_divisible_by_3(21) == True
+
+def test_is_divisible_by_3_false():
+    assert fizzbuzz.is_divisible_by_3(22) == False

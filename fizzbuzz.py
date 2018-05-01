@@ -8,3 +8,6 @@ class fizzbuzz:
 
   def is_divisible_by_5(number):
       return fizzbuzz.is_divisible_by(number, 5)
+
+  def is_divisible_by_3(number):
+      return fizzbuzz.is_divisible_by(number, 3)
