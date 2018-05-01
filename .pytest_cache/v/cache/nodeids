@@ -1,3 +1,4 @@
 [
-  "test_fizzbuzz.py::test_is_divisible_by"
+  "test_fizzbuzz.py::test_is_divisible_by",
+  "test_fizzbuzz.py::test_is_divisible_by_by_15"
 ]
