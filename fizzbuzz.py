@@ -5,3 +5,6 @@ class fizzbuzz:
 
   def is_divisible_by_15(number):
       return fizzbuzz.is_divisible_by(number, 15)
+
+  def is_divisible_by_5(number):
+      return fizzbuzz.is_divisible_by(number, 5)
