@@ -6,5 +6,8 @@
   "test_fizzbuzz.py::test_is_divisible_by_5_true",
   "test_fizzbuzz.py::test_is_divisible_by_5_false",
   "test_fizzbuzz.py::test_is_divisible_by_3_true",
-  "test_fizzbuzz.py::test_is_divisible_by_3_false"
+  "test_fizzbuzz.py::test_is_divisible_by_3_false",
+  "test_fizzbuzz.py::test_say_buzz",
+  "test_fizzbuzz.py::test_say_fizz",
+  "test_fizzbuzz.py::test_say_fizzbuzz"
 ]

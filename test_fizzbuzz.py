@@ -24,3 +24,15 @@ def test_is_divisible_by_3_true():
 
 def test_is_divisible_by_3_false():
     assert fizzbuzz.is_divisible_by_3(22) == False
+
+def test_say_fizzbuzz():
+    assert fizzbuzz.say(15) == 'Fizzbuzz'
+
+def test_say_buzz():
+    assert fizzbuzz.say(5) == 'Buzz'
+
+def test_say_fizz():
+    assert fizzbuzz.say(3) == 'Fizz'
+
+def test_say_fizzbuzz():
+    assert fizzbuzz.say(37) == 37
